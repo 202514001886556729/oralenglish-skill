@@ -1,0 +1,4 @@
+interface:
+  display_name: "专四口语思辨陪练（Oral English Critical Thinking Coach）"
+  short_description: "逐轮输出英文思辨话题与一正一反参考句型，用户口述作答后给出原句转写、1 版口语化优化句与简短点评，支持继续/重新回答循环"
+  default_prompt: "开始练习"
